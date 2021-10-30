@@ -129,8 +129,9 @@
   .last-cell{
       border-right: none;
   }
-  a {
+  .active {
     color: rgb(255, 0, 0);
+    font-size: 21px;
   }
   
   @media only screen and (max-width: 600px) {
